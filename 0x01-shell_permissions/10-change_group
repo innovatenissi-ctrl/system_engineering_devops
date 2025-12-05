@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+   # Change group owner of hello file to school
+   chgrp school hello
