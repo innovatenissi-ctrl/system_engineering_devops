@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Add execute permission to all subdirectories for all users
+chmod a+X ./*
