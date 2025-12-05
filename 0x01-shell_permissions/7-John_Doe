@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Set permissions to 753 (rwxr-x-wx)
+chmod 753 hello
